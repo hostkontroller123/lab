@@ -1,8 +1,6 @@
 <?php
 
 
-
-
 class A {
     protected $x;
 
